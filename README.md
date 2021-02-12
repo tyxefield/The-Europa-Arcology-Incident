@@ -8,7 +8,7 @@ The game is done by Markus Persson Notch, you have the original readme from him 
 I will not upload the source, i didn't spot any source from notch and im not sure if he did back then.
 
 Also you have the original jar here, it was the applet one, no way it works on
-modern browsers ;)**
+modern browsers ;)
 # _______________________________________
 
 -Game ported from Applet to runnable java game with fixes
